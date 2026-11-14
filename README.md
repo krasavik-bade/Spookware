@@ -207,4 +207,4 @@ This repository serves as the official landing page for SPOOKWARE. The software 
 **Get the most recent version of SPOOKWARE today!**
 
 ---
-**Last updated:** 2026-11-14 14:42:25 UTC
+**Last updated:** 2026-11-14 19:39:46 UTC
